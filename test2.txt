@@ -1,1 +1,2 @@
-I'm hungry...
+I ate NULL.
+I'm full!!
